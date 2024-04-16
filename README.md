@@ -7,3 +7,9 @@
 4. 後端會員管理系統
 5. 後端會員意見處理系統
 6. 過濾器
+
+說明文件:
+a. 快速線上測試指南(PDF)
+https://drive.google.com/file/d/18azHK0yowCAH6WMy4AD4qw9d-imMUosd/view?usp=sharing
+b. API說明文件(Eugen部分)
+https://drive.google.com/drive/folders/1y0KnEJpgTi_RniXSuymn4UqsWwk6JZ_I?usp=drive_link
